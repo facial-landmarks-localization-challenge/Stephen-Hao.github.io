@@ -376,13 +376,13 @@
     .organizer-bg {
         float: left;
         text-align: center;
-        height: 300px;
-        margin-left: 20px;
+        height: 320px;
+        margin-left: 10px;
     }
     
     .organizer-bg img {
-        width: 200px;
-        height: 200px;
+        width: 240px;
+        height: 240px;
         margin-bottom: 10px;
     }
     

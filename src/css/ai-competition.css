@@ -201,16 +201,16 @@
     }
     
     .detail-intro {
-        border: 2px solid #cee4f9;
+        border: 1px solid #cee4f9;
         margin-right: 25px;
     }
 
      .related-link {
-        border: 2px solid #cee4f9;
+        border: 1px solid #cee4f9;
     }
 
     .sample-data {
-        border: 2px solid #cfe3d0;
+        border: 1px solid #cfe3d0;
     }
     
     .detail-intro a {
@@ -270,7 +270,7 @@
     }
     
     .fashion-item-img {
-        margin-left: 75px;
+        margin-left: 50px;
         margin-top: 50px;
     }
     

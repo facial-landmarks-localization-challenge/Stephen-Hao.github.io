@@ -64,7 +64,7 @@
     .comp-text {
         margin: 0 auto;
         width: 50%;
-        font-size: 60px;
+        font-size: 100px;
         font-weight: bold;
         color: #e6eaea;
         list-style-type: none;
@@ -276,7 +276,8 @@
     
     .comp-date {
         margin: 150px 15px 30px 20px;
-        font-size: 18px;
+        font-size: 20px;
+        font-weight: bold;
         color: #222;
         text-align: left;
     }

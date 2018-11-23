@@ -39,7 +39,7 @@
     }
     
     .logo {
-        padding: 0px 80px;
+        padding: 0px 60px;
     }
     
     #menu li {
@@ -270,7 +270,7 @@
     }
     
     .fashion-item-img {
-        margin-left: 80px;
+        margin-left: 100px;
         margin-top: 50px;
     }
     
@@ -291,7 +291,6 @@
     .container table {
         margin: 0 auto;
         font-size: 18px;
-        font-weight: bold;
         width: 980px;
         height: 390px;
         border: 1px solid #e8e8e8;

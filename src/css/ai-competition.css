@@ -181,7 +181,11 @@
         font-size: 16px;
         color: #333
     }
-    
+    .fashion-style-img {
+        width: 940px;
+        margin-left: 30px;
+        text-align: justify;
+    }
     .btn-container div {
         float: right;
         width: 135px;

@@ -187,9 +187,9 @@
         text-align: justify;
     }
     .btn-container div {
-        float: left;
-        width: 120px;
-        height: 30px;
+        margin:0 auto;
+        width: 140px;
+        height: 35px;
         line-height: 30px;
         border: 1px solid #cee4f9;
         border-radius: 30px;

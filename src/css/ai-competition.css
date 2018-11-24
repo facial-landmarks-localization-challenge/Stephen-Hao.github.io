@@ -188,7 +188,7 @@
     }
     .btn-container div {
         float: right;
-        width: 160px;
+        width: 140px;
         height: 30px;
         line-height: 30px;
         border: 1px solid #cee4f9;
@@ -196,7 +196,7 @@
         font-size: 14px;
         overflow: hidden;
         cursor: pointer;
-        margin: 10px 10px 5px 0px;
+        margin: 5px 5px 5px 0px;
         background: #fff;
     }
     

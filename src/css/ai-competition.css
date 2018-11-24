@@ -386,17 +386,18 @@
     .organizer-bg img {
         width: 200px;
         height: 200px;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
     
     .organizer-bg p {
         font-size: 16px;
         font-weight: bold;
+        margin-top: 10px;
         color: #333;
     }
 
     .contact-us {
-        margin-top: 100px;
+        margin-top: 120px;
     }
 
     .contact-us p {

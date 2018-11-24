@@ -187,8 +187,8 @@
         text-align: justify;
     }
     .btn-container div {
-        float: left;
-        width: 130px;
+        float: center;
+        width: 135px;
         height: 30px;
         line-height: 30px;
         border: 1px solid #cee4f9;

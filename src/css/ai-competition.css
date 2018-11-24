@@ -184,7 +184,7 @@
     
     .btn-container div {
         float: right;
-        width: 160px;
+        width: 100px;
         height: 30px;
         line-height: 30px;
         border: 1px solid #cee4f9;
@@ -270,7 +270,7 @@
     }
     
     .fashion-item-img {
-        margin-left: 100px;
+        margin-left: 120px;
         margin-top: 50px;
     }
     

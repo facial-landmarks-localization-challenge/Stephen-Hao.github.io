@@ -164,7 +164,7 @@
     .introduction-list {
         width: 860px;
         line-height: 40px;
-        margin-left: 10px;
+        margin-left: 0px;
         list-style-type: none;
         text-align: justify;
         font-size: 16px;
@@ -174,7 +174,7 @@
     .fashion-style-text {
         width: 890px;
         line-height: 40px;
-        margin-left: 10px;
+        margin-left: 0px;
         margin-top: 120px;
         list-style-type: none;
         text-align: justify;
@@ -183,7 +183,7 @@
     }
     .fashion-style-img {
         width: 940px;
-        margin-left: 30px;
+        margin-left: 0px;
         text-align: justify;
     }
     .btn-container div {

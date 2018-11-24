@@ -187,7 +187,7 @@
         text-align: justify;
     }
     .btn-container div {
-        float: right;
+        float: left;
         width: 130px;
         height: 30px;
         line-height: 30px;
@@ -235,7 +235,7 @@
     }
     
     .btn-container div img {
-        float: right;
+        float: left;
         margin-right: 10px;
         margin-top: 5px;
     }

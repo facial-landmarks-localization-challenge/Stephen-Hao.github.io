@@ -380,19 +380,18 @@
         float: left;
         text-align: center;
         height: 300px;
-        margin-left: 5px;
+        margin-left: 40px;
     }
     
     .organizer-bg img {
         width: 200px;
         height: 200px;
-        margin-bottom: 5px;
+        margin-bottom: 10px;
     }
     
     .organizer-bg p {
-        font-size: 14px;
+        font-size: 16px;
         font-weight: bold;
-        margin-top: 10px;
         color: #333;
     }
 

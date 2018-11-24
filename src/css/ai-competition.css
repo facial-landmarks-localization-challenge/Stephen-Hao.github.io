@@ -62,7 +62,7 @@
     }
     
     .comp-text {
-        margin: 0 auto;
+        float:right;
         width: 50%;
         font-size: 200px;
         font-weight: bold;

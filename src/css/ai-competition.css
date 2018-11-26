@@ -280,7 +280,7 @@
     
     .comp-date {
         margin: 150px 15px 30px 20px;
-        font-size: 18px;
+        font-size: 16px;
         color: #222;
         text-align: left;
     }
@@ -293,7 +293,7 @@
     }
     .container table {
         margin: 0 auto;
-        font-size: 18px;
+        font-size: 16px;
         width: 980px;
         height: 390px;
         border: 1px solid #e8e8e8;
@@ -338,7 +338,7 @@
     }
     
     .prize-list p {
-        font-size: 18px;
+        font-size: 16px;
         margin-top: 240px;
         text-align: center;
         font-weight: 400;
@@ -365,7 +365,7 @@
         margin-top: 100px;
         text-align: center;
         color: #616161;
-        font-size: 18px;
+        font-size: 16px;
         font-weight: bold;
     }
     

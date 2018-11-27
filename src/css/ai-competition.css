@@ -279,10 +279,10 @@
     }
     
     .comp-date {
-        margin: 150px 15px 30px 20px;
+        margin: 145px 15px 30px 20px;
         font-size: 16px;
         color: #222;
-        text-align: left;
+        text-align: justify;
     }
     .tips {
         margin: 60px 15px 30px 20px;

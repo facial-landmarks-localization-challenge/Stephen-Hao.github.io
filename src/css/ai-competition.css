@@ -188,12 +188,12 @@
     }
     .btn-container div {
         float: right;
-        width: 200px;
-        height: 40px;
+        width: 230px;
+        height: 30px;
         line-height: 30px;
         border: 1px solid #cee4f9;
         border-radius: 30px;
-        font-size: 14px;
+        font-size: 16px;
         overflow: hidden;
         cursor: pointer;
         margin: 5px 5px 5px 0px;

@@ -281,6 +281,7 @@
     .comp-date {
         margin: 140px 15px 30px 20px;
         font-size: 16px;
+        font-weight: bold;
         color: #222;
         text-align: left;
     }

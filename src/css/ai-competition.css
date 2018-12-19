@@ -295,6 +295,7 @@
     .container table {
         margin: 0 auto;
         font-size: 16px;
+        font-weight: bold;
         width: 980px;
         height: 390px;
         border: 1px solid #e8e8e8;
@@ -302,7 +303,7 @@
     }
     
     .container table tr td {
-        border-bottom: 1px solid #e8e8e8;
+        border-bottom: 2px solid #e8e8e8;
     }
     
     .container table tr:last-child {
